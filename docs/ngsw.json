@@ -1,0 +1,86 @@
+{
+  "configVersion": 1,
+  "timestamp": 1597738045513,
+  "index": "https://rkvermamec.github.io/Client/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://rkvermamec.github.io/Client/favicon.ico",
+        "https://rkvermamec.github.io/Client/main-es2015.a1b348bc56e57b26a0e1.js",
+        "https://rkvermamec.github.io/Client/main-es5.a1b348bc56e57b26a0e1.js",
+        "https://rkvermamec.github.io/Client/manifest.json",
+        "https://rkvermamec.github.io/Client/polyfills-es2015.5b10b8fd823b6392f1fd.js",
+        "https://rkvermamec.github.io/Client/polyfills-es5.3e8196928d184a6e5319.js",
+        "https://rkvermamec.github.io/Client/runtime-es2015.c5fa8325f89fc516600b.js",
+        "https://rkvermamec.github.io/Client/runtime-es5.c5fa8325f89fc516600b.js",
+        "https://rkvermamec.github.io/Client/styles.d62d676b8fa822c3693a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://rkvermamec.github.io/Client/assets/icons/icon-128x128.png",
+        "https://rkvermamec.github.io/Client/assets/icons/icon-144x144.png",
+        "https://rkvermamec.github.io/Client/assets/icons/icon-152x152.png",
+        "https://rkvermamec.github.io/Client/assets/icons/icon-192x192.png",
+        "https://rkvermamec.github.io/Client/assets/icons/icon-384x384.png",
+        "https://rkvermamec.github.io/Client/assets/icons/icon-512x512.png",
+        "https://rkvermamec.github.io/Client/assets/icons/icon-72x72.png",
+        "https://rkvermamec.github.io/Client/assets/icons/icon-96x96.png",
+        "https://rkvermamec.github.io/Client/assets/image/bell.png",
+        "https://rkvermamec.github.io/Client/assets/image/placeholder.png",
+        "https://rkvermamec.github.io/Client/assets/labels/labels_en.ts",
+        "https://rkvermamec.github.io/Client/assets/labels/labels_hi.ts"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://rkvermamec.github.io/Client/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://rkvermamec.github.io/Client/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://rkvermamec.github.io/Client/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://rkvermamec.github.io/Client/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://rkvermamec.github.io/Client/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://rkvermamec.github.io/Client/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://rkvermamec.github.io/Client/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://rkvermamec.github.io/Client/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://rkvermamec.github.io/Client/assets/image/bell.png": "0a3b932faf166e0297c4b2311687171ea921513e",
+    "https://rkvermamec.github.io/Client/assets/image/placeholder.png": "ea7200a11460c48f34cfc19161e020d827c8ce48",
+    "https://rkvermamec.github.io/Client/assets/labels/labels_en.ts": "9604ec4f43ab5f2720e9c28e74e0eb87a108fc2d",
+    "https://rkvermamec.github.io/Client/assets/labels/labels_hi.ts": "feafa0a8e31f2f72b2e05478507973a5b65d7057",
+    "https://rkvermamec.github.io/Client/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://rkvermamec.github.io/Client/main-es2015.a1b348bc56e57b26a0e1.js": "7a5aed3d787040d145fd9dd1af5b0ecedfcdeb33",
+    "https://rkvermamec.github.io/Client/main-es5.a1b348bc56e57b26a0e1.js": "82ba4a65a8178a6f16acfe4f2e3028b799f45628",
+    "https://rkvermamec.github.io/Client/manifest.json": "829b5c669106ec478941ecbf2a8ab7a91f6aa227",
+    "https://rkvermamec.github.io/Client/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
+    "https://rkvermamec.github.io/Client/polyfills-es5.3e8196928d184a6e5319.js": "29c3227e54cf420fa789aa877c2e4194ffd959c7",
+    "https://rkvermamec.github.io/Client/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://rkvermamec.github.io/Client/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://rkvermamec.github.io/Client/styles.d62d676b8fa822c3693a.css": "9bdd8dcaea39e69467229b5a8502a75e4fd369d9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
